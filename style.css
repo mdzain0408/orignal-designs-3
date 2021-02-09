@@ -1,0 +1,94 @@
+
+
+.head2{
+   color:#fff;
+   font-size: 40;
+ position: absolute;
+ top: 10;
+
+
+}
+
+.para{
+
+color:#fff;
+text-align: center;
+position: absolute;
+top: 80;
+
+
+
+}
+
+
+h1{
+
+color:#ffffff;
+margin-left: 350px;
+margin-top: 0px;
+background-color: #000;
+
+ }
+
+/*
+Zain,
+
+i have removed the header 2 as its not needed.. only for basic needs i have given it.
+
+*/
+
+.head3{
+color: #fff;
+position: absolute;
+font-size: 20;
+top: -10;
+
+}
+.links{
+   display: flex;
+   line-height: 4ch;
+   justify-content:space-between;
+   margin-left: 1000px;
+   background-color: #000;
+ 
+}
+
+.header{
+
+   
+   display: flex;
+   justify-content:space-around;
+   background-color: #000;
+
+ }
+
+ .origami{
+background-color: #fff;
+border: solid;
+padding: 30px 5px;
+margin: 25px;
+width: 300;
+height: 300;
+
+ }
+ .grid{
+    background-color: #eaeaea;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+
+ }
+ .image{
+   text-align: center;
+   border: solid;
+   width: 150;
+   height: 105;
+   border-radius: 10%;
+   margin: auto;
+  
+   
+
+
+
+ }
